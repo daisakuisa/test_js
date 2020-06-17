@@ -7,6 +7,8 @@
     <title>Document</title>
     <!-- <link rel="stylesheet" href="css/reset.css"> -->
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="css/slick.css" />
+    <link rel="stylesheet" type="text/css" href="css/commmon.css" />
 </head>
 
 <body>
@@ -29,6 +31,11 @@
 
     </footer>
     <script src="https://ajax.googleapis.com/ajax/libs/d3js/5.15.1/d3.min.js"></script>
+
+
+    //JS
+    <script type="text/javascript" src="js/slick.min.js"></script>
+    <script type="text/javascript" src="js/common.js"></script>
 
     <script src="js/app.js"></script>
 </body>
