@@ -6,15 +6,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <!-- <link rel="stylesheet" href="css/reset.css"> -->
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" type="text/css" href="css/slick.css" />
-    <link rel="stylesheet" type="text/css" href="css/commmon.css" />
+    <!-- <link rel="stylesheet" href="css/style.css"> -->
+    <!-- <link rel="stylesheet" type="text/css" href="css/slick.css" /> -->
+    <!-- <link rel="stylesheet" type="text/css" href="css/commmon.css" /> -->
 </head>
 
 <body>
     <header>
         <h1>test</h1>
-        <div class="viewer">
+        <img id="img" width="400" height="300" class="lazyload">
+        <div class="slick01">
             <ul>
                 <li><img src="img/photo01.jpg" width="400" height="300" alt=""></li>
                 <li><img src="img/photo02.jpg" width="400" height="300" alt=""></li>
@@ -33,9 +34,8 @@
     <script src="https://ajax.googleapis.com/ajax/libs/d3js/5.15.1/d3.min.js"></script>
 
 
-    //JS
-    <script type="text/javascript" src="js/slick.min.js"></script>
-    <script type="text/javascript" src="js/common.js"></script>
+    <!-- <script type="text/javascript" src="js/slick.js"></script> -->
+    <!-- <script type="text/javascript" src="js/common.js"></script> -->
 
     <script src="js/app.js"></script>
 </body>
