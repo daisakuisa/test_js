@@ -17,7 +17,7 @@
         <img id="img" width="400" height="300" class="lazyload">
         <div class="slick01">
             <ul>
-                <li><img src="img/photo01.jpg" width="400" height="300" alt=""></li>
+                <li><img src="img/photo01.jpg" width="600" height="500" alt=""></li>
                 <li><img src="img/photo02.jpg" width="400" height="300" alt=""></li>
                 <li><img src="img/photo03.jpg" width="400" height="300" alt=""></li>
                 <li><img src="img/photo04.jpg" width="400" height="300" alt=""></li>
